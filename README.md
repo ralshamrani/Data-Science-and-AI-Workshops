@@ -35,4 +35,4 @@ Each folder corresponds to a specific workshop and may include:
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ralshamrani/Data_Science_and_AI_Workshops.git
+   git clone https://github.com/ralshamrani/Data-Science-and-AI-Workshops.git
