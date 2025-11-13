@@ -44,3 +44,15 @@ Each folder corresponds to a specific workshop and may include:
 * https://cs.gmu.edu/~offutt/softwaretest/
 * https://people.engr.tamu.edu/guni/csce625/slides/AI.pdf
 * https://www.stat.berkeley.edu/~rabbee/s154/ISLR_First_Printing.pdf
+
+---
+
+---
+
+## ✍️ Citation / Credit
+If you find this repository useful in your learning, teaching, or research, please give proper credit by citing or mentioning the author:
+
+**Rayan Alshamrani** — [@ralshamrani](https://github.com/ralshamrani)
+
+> Example citation:  
+> “This material was adapted from the *Data Science and AI Workshops* repository by [Rayan Alshamrani](https://github.com/ralshamrani).”
