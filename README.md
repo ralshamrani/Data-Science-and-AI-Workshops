@@ -47,8 +47,6 @@ Each folder corresponds to a specific workshop and may include:
 
 ---
 
----
-
 ## ✍️ Citation / Credit
 If you find this repository useful in your learning, teaching, or research, please give proper credit by citing or mentioning the author:
 
