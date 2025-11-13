@@ -36,3 +36,11 @@ Each folder corresponds to a specific workshop and may include:
 1. Clone the repository:
    ```bash
    git clone https://github.com/ralshamrani/Data-Science-and-AI-Workshops.git
+
+   ---
+
+## 📚 References
+* https://github.com/avakanski/Fall-2025-Applied-Data-Science-with-Python
+* https://cs.gmu.edu/~offutt/softwaretest/
+* https://people.engr.tamu.edu/guni/csce625/slides/AI.pdf
+* https://www.stat.berkeley.edu/~rabbee/s154/ISLR_First_Printing.pdf
