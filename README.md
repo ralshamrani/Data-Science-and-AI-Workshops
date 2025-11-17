@@ -18,7 +18,7 @@ A foundational introduction to the data science lifecycle — including data col
 ### 2. **From Statistics to AI**
 A conceptual and practical journey showing how classical statistics evolved into modern artificial intelligence, with emphasis on data-driven reasoning, predictive modeling, and automation.
 
-### 3. **Data Analysis using R Language**
+### 3. **Data Analysis using R**
 A practical workshop focused on exploring, cleaning, visualizing, and analyzing data using the **R programming language**.  
 Participants learn how to handle datasets efficiently and communicate insights through statistical and graphical methods.
 
@@ -44,6 +44,7 @@ Each folder corresponds to a specific workshop and may include:
 * https://cs.gmu.edu/~offutt/softwaretest/
 * https://people.engr.tamu.edu/guni/csce625/slides/AI.pdf
 * https://www.stat.berkeley.edu/~rabbee/s154/ISLR_First_Printing.pdf
+* https://www.youtube.com/@RProgramming101
 
 ---
 
